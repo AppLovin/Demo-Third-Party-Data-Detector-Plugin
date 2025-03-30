@@ -9,7 +9,7 @@ identifiers, with clickable domains to copy the last request to your clipboard.
 - **Tracks Multiple Identifiers**:
     - **Facebook ID**: Monitors the `_fbp` cookie.
     - **Google Analytics ID**: Monitors the `_ga` cookie.
-    - 
+    
 - **Real-Time Dashboard**: Displays a table with:
     - Identifier type
     - Current value of the identifier
